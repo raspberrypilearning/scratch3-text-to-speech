@@ -1,11 +1,10 @@
-title: scratch3-text-to-speech
+title: Using the text to speech extension
 hero_image: images/banner.png
-description: scratch3-text-to-speech description
+description: Using the text to speech extension to make sprites speak out loud.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-10"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Using the text to speech extension
+  
