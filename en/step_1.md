@@ -1,4 +1,4 @@
-##Using the text to speech extension
+## Using the text to speech extension
 
 **Pico and Giga talk with the speech extension**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
