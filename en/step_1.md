@@ -1,59 +1,37 @@
-## Introduction
+##Using the text to speech extension
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
-
-### What you will make
-
---- no-print ---
-Add instructions for interacting with the embedded content here.
+**Pico and Giga talk with the speech extension**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Click Add Extension:
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+![Add extension button](images/add-extension.png)
 
-+ A computer or tablet capable of running Scratch 3
+Choose Text to Speech
 
-### Software
+![Text to Speech extension highlighted](images/text-to-speech.png)
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+You will get new a new Text to Speech Blocks menu:
 
-### Downloads
+![Text to Speech blocks menu](images/text-to-speech-extension.png)
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+You can use these blocks to make your sprites talk out loud.
 
---- /collapse ---
+Make a sprite talk:
 
---- collapse ---
----
-title: What you will learn
----
+```blocks3
+when this sprite clicked
+set voice to (alto v) :: tts
+set language to (Spanish v) :: tts
+speak [Hola] :: tts
+```
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+You can even use kitten speak!
 
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+```blocks3
+set voice to (kitten v) :: tts
+speak [Cat gotta haz milk.] :: tts
+```
