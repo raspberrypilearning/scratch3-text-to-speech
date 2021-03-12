@@ -1,5 +1,3 @@
-##  Speak out loud with the text to speech extension
-
 **Pico and Giga talk with the speech extension**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
 <div class="scratch-preview">
