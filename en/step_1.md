@@ -14,7 +14,7 @@ Choose Text to Speech
 
 You will get new a new Text to Speech Blocks menu:
 
-![Text to Speech blocks menu](images/text-to-speech-extension.png)
+![Text to Speech blocks menu](images/text-to-speech-blocks.png)
 
 You can use these blocks to make your sprites talk out loud.
 
