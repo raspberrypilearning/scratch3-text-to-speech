@@ -4,17 +4,17 @@
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click Add Extension:
+Click on **Add Extension**:
 
-![Add extension button](images/add-extension.png)
+![The 'Add Extension' button.](images/add-extension.png)
 
-Choose Text to Speech
+Choose **Text to Speech**.
 
-![Text to Speech extension highlighted](images/text-to-speech.png)
+![The 'Text to Speech' extension highlighted.](images/text-to-speech.png)
 
-You will get new a new Text to Speech Blocks menu:
+You will get new a new `Text to Speech`{:class="block3extensions"} blocks menu:
 
-![Text to Speech blocks menu](images/text-to-speech-blocks.png)
+![The 'Text to Speech' blocks menu.](images/text-to-speech-blocks.png)
 
 You can use these blocks to make your sprites talk out loud.
 
