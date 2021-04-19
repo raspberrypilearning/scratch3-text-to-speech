@@ -4,19 +4,19 @@
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click Add Extension:
+Click on **Add Extension**:
 
-![Add extension button](images/add-extension.png)
+![The 'Add Extension' button.](images/add-extension.png)
 
-Choose Text to Speech
+Choose **Text to Speech**.
 
-![Text to Speech extension highlighted](images/text-to-speech.png)
+![The 'Text to Speech' extension highlighted.](images/text-to-speech.png)
 
-You will get new a new Text to Speech Blocks menu:
+You will get new a new `Text to Speech`{:class="block3extensions"} blocks menu:
 
-![Text to Speech blocks menu](images/text-to-speech-extension.png)
+![The 'Text to Speech' blocks menu.](images/text-to-speech-blocks.png)
 
-You can use these blocks to make your sprites talk out loud.
+You can use the blocks in the `Text to Speech`{:class="block3extensions"} blocks menu to make your sprites talk out loud.
 
 Make a sprite talk:
 
@@ -27,7 +27,7 @@ set language to (Spanish v) :: tts
 speak [Hola] :: tts
 ```
 
-You can even use kitten speak!
+You can even use a kitten voice!
 
 ```blocks3
 set voice to (kitten v) :: tts
