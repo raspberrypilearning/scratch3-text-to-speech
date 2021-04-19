@@ -16,7 +16,7 @@ You will get new a new `Text to Speech`{:class="block3extensions"} blocks menu:
 
 ![The 'Text to Speech' blocks menu.](images/text-to-speech-blocks.png)
 
-You can use these blocks to make your sprites talk out loud.
+You can use the blocks in the `Text to Speech`{:class="block3extensions"} blocks menu to make your sprites talk out loud.
 
 Make a sprite talk:
 
@@ -27,7 +27,7 @@ set language to (Spanish v) :: tts
 speak [Hola] :: tts
 ```
 
-You can even use kitten speak!
+You can even use a kitten voice!
 
 ```blocks3
 set voice to (kitten v) :: tts
