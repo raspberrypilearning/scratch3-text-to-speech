@@ -1,24 +1,24 @@
-**Pico and Giga talk with the speech extension**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+**Pico en Giga praten met de spraak uitbreiding**: [Bekijk van binnen](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on **Add Extension**:
+Klik op **Voeg een uitbreiding toe**:
 
-![The 'Add Extension' button.](images/add-extension.png)
+![De knop 'Voeg een uitbreiding toe'.](images/add-extension.png)
 
-Choose **Text to Speech**.
+Kies **Tekst naar spraak**.
 
-![The 'Text to Speech' extension highlighted.](images/text-to-speech.png)
+![De uitbreiding 'Tekst naar spraak' is gemarkeerd.](images/text-to-speech.png)
 
-You will get new a new `Text to Speech`{:class="block3extensions"} blocks menu:
+Je krijgt een nieuw `Tekst naar spraak`{:class ="block3extensions"} blokken menu:
 
-![The 'Text to Speech' blocks menu.](images/text-to-speech-blocks.png)
+![Het 'Tekst naar spraak' blokken menu.](images/text-to-speech-blocks.png)
 
-You can use the blocks in the `Text to Speech`{:class="block3extensions"} blocks menu to make your sprites talk out loud.
+Je kunt de blokken in het `Tekst naar spraak`{:class="block3extensions"} blokken menu gebruiken om je sprites hardop te laten praten.
 
-Make a sprite talk:
+Laat een sprite praten:
 
 ```blocks3
 when this sprite clicked
@@ -27,7 +27,7 @@ set language to (Spanish v) :: tts
 speak [Hola] :: tts
 ```
 
-You can even use a kitten voice!
+Je kunt zelfs een katten-stem gebruiken!
 
 ```blocks3
 set voice to (kitten v) :: tts
