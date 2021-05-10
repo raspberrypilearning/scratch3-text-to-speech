@@ -12,7 +12,7 @@ Kies **Tekst naar spraak**.
 
 ![De uitbreiding 'Tekst naar spraak' is gemarkeerd.](images/text-to-speech.png)
 
-Je krijgt een nieuw `Tekst naar spraak`{:class ="block3extensions"} blokken menu:
+Je krijgt een nieuw `Tekst naar spraak`{:class="block3extensions"} blokken menu:
 
 ![Het 'Tekst naar spraak' blokken menu.](images/text-to-speech-blocks.png)
 
