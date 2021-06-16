@@ -1,4 +1,4 @@
-**Pico en Giga praten met de spraak uitbreiding**: [Bekijk van binnen](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+**Pico en Giga praten met de spraakuitbreiding**: [Bekijk van binnen](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
