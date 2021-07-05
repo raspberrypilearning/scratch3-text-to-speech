@@ -18,7 +18,7 @@ You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
 
 You can use the blocks in the `Text to Speech`{:class="block3extensions"} blocks menu to make your sprites talk out loud.
 
-Make a sprite talk out loud:
+You can make a sprite talk out loud when clicked:
 
 ```blocks3
 when this sprite clicked
