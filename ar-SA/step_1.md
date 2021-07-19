@@ -6,19 +6,19 @@
 
 انقر على **ادراج اضافة**:
 
-![زر "إضافة ملحق".](images/add-extension.png)
+![The 'Add Extension' icon.](images/add-extension.png)
 
-اختر **نص الى كلام**.
+Choose **Text to Speech**:
 
 ![تمييز ملحق "نص إلى كلام".](images/text-to-speech.png)
 
-ستحصل على قائمة كتل `نص الى كلام`{:class="block3extensions"} جديدة:
+You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
 
 ![قائمة كتل "نص إلى كلام".](images/text-to-speech-blocks.png)
 
 يمكنك استخدام الكتل الموجودة في قائمة الكتل `نص الى كلام`{:class="block3extensions"} لجعل الكائنات تتحدث بصوت عالٍ.
 
-اصنع كائن يتحدث:
+You can make a sprite talk out loud when clicked:
 
 ```blocks3
 when this sprite clicked
@@ -27,7 +27,7 @@ set language to (Spanish v) :: tts
 speak [Hola] :: tts
 ```
 
-يمكنك حتى استخدام صوت هريرة!
+You can even give your sprite a kitten voice!
 
 ```blocks3
 set voice to (kitten v) :: tts
