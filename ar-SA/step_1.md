@@ -8,11 +8,11 @@
 
 ![The 'Add Extension' icon.](images/add-extension.png)
 
-Choose **Text to Speech**:
+اختر **نص الى كلام**:
 
 ![تمييز ملحق "نص إلى كلام".](images/text-to-speech.png)
 
-You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
+ستحصل على قائمة كتل `نص الى كلام`{:class="block3extensions"} جديدة:
 
 ![قائمة كتل "نص إلى كلام".](images/text-to-speech-blocks.png)
 
