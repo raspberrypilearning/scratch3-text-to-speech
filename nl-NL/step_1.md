@@ -8,11 +8,11 @@ Klik op **Voeg een uitbreiding toe**:
 
 ![The 'Add Extension' icon.](images/add-extension.png)
 
-Choose **Text to Speech**:
+Kies **Tekst naar spraak**:
 
 ![De uitbreiding 'Tekst naar spraak' is gemarkeerd.](images/text-to-speech.png)
 
-You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
+Je krijgt een nieuw `Tekst naar spraak`{:class="block3extensions"} blokken menu:
 
 ![Het 'Tekst naar spraak' blokken menu.](images/text-to-speech-blocks.png)
 
