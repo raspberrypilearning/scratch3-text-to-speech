@@ -6,19 +6,19 @@
 
 Clique sur **Ajouter une extension** :
 
-![The 'Add Extension' icon.](images/add-extension.png)
+![Le bouton « Ajouter une extension ».](images/add-extension.png)
 
-Choose **Text to Speech**:
+Choisis **Synthèse vocale** :
 
 ![L'extension « Synthèse vocale » en surbrillance.](images/text-to-speech.png)
 
-You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
+Tu obtiendras un nouveau menu bloc `Synthèse vocale`{:class="block3extensions"} :
 
 ![Le menu des blocs « Synthèse vocale ».](images/text-to-speech-blocks.png)
 
 Tu peux utiliser les blocs du menu bloc `Synthèse vocale`{:class="block3extensions"} pour faire parler tes sprites à voix haute.
 
-You can make a sprite talk out loud when clicked:
+Tu peux faire parler un sprite à haute voix lorsque tu cliques dessus :
 
 ```blocks3
 quand ce sprite est cliqué
@@ -27,7 +27,7 @@ mettre la langue à (français v) :: tts
 prononcer [Bonjour] :: tts
 ```
 
-You can even give your sprite a kitten voice!
+Tu peux même donner à ton sprite une voix de chaton !
 
 ```blocks3
 choisir la voix du (chaton v) :: tts
