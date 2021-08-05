@@ -1,22 +1,22 @@
-**Pico and Giga talk with the speech extension**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+** حديث بيكو وجيجا مع ملحق الكلام**: [انظر في الداخل](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on **Add Extension**:
+انقر على **ادراج اضافة**:
 
 ![رمز "إضافة ملحق".](images/add-extension.png)
 
-Choose **Text to Speech**:
+اختر **نص الى كلام**:
 
 ![تمييز ملحق "نص إلى كلام".](images/text-to-speech.png)
 
-You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
+ستحصل على قائمة كتل `نص الى كلام`{:class="block3extensions"} جديدة:
 
 ![قائمة كتل "نص إلى كلام".](images/text-to-speech-blocks.png)
 
-You can use the blocks in the `Text to Speech`{:class="block3extensions"} blocks menu to make your sprites talk out loud.
+يمكنك استخدام الكتل الموجودة في قائمة الكتل `نص الى كلام`{:class="block3extensions"} لجعل الكائنات تتحدث بصوت عالٍ.
 
 يمكنك جعل كائن ما يتحدث بصوت عالٍ عند النقر عليه:
 
