@@ -1,24 +1,24 @@
-** حديث بيكو وجيجا مع ملحق الكلام**: [انظر في الداخل](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+**Pico and Giga talk with the speech extension**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-انقر على **ادراج اضافة**:
+Click on **Add Extension**:
 
-![The 'Add Extension' icon.](images/add-extension.png)
+![رمز "إضافة ملحق".](images/add-extension.png)
 
-اختر **نص الى كلام**:
+Choose **Text to Speech**:
 
 ![تمييز ملحق "نص إلى كلام".](images/text-to-speech.png)
 
-ستحصل على قائمة كتل `نص الى كلام`{:class="block3extensions"} جديدة:
+You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
 
 ![قائمة كتل "نص إلى كلام".](images/text-to-speech-blocks.png)
 
-يمكنك استخدام الكتل الموجودة في قائمة الكتل `نص الى كلام`{:class="block3extensions"} لجعل الكائنات تتحدث بصوت عالٍ.
+You can use the blocks in the `Text to Speech`{:class="block3extensions"} blocks menu to make your sprites talk out loud.
 
-You can make a sprite talk out loud when clicked:
+يمكنك جعل كائن ما يتحدث بصوت عالٍ عند النقر عليه:
 
 ```blocks3
 when this sprite clicked
@@ -27,7 +27,7 @@ set language to (Spanish v) :: tts
 speak [Hola] :: tts
 ```
 
-You can even give your sprite a kitten voice!
+يمكنك حتى أن تعطي كائنك صوت قطة!
 
 ```blocks3
 set voice to (kitten v) :: tts
