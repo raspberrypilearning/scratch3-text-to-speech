@@ -1,5 +1,5 @@
 ---
-title: Make a sprite talk with the Text to Speech extension
+title: اجعل الكائن يتكلم باستخدام ملحق تحويل النص إلى كلام
 hero_image: images/banner.png
 description: استخدام ملحق نص الى كلام لجعل الكائنات تتحدث بصوت عالٍ
 version: 4
@@ -8,4 +8,4 @@ copyedit: false
 last_tested: "2021-03-10"
 steps:
   - 
-    title: Make a sprite talk with the Text to Speech extension
+    title: اجعل الكائن يتكلم باستخدام ملحق تحويل النص إلى كلام
