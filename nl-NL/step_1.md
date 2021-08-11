@@ -27,7 +27,7 @@ set language to (Spanish v) :: tts
 speak [Hola] :: tts
 ```
 
-You can even give your sprite a kitten voice!
+Je kunt zelfs een kattenstem gebruiken!
 
 ```blocks3
 set voice to (kitten v) :: tts
