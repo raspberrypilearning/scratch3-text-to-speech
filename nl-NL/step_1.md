@@ -1,4 +1,4 @@
-**Pico en Giga praten met de spraak uitbreiding**: [Bekijk van binnen](https://scratch.mit.edu/projects/528317597/editor){:target="_blank"}
+**Pico en Giga praten met de spraakuitbreiding**: [Bekijk van binnen](https://scratch.mit.edu/projects/528317597/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/528317597/?autostart=false" frameborder="0"></iframe>
@@ -8,7 +8,7 @@ Klik op **Voeg een uitbreiding toe**:
 
 ![De knop 'Voeg een uitbreiding toe'.](images/add-extension.png)
 
-Kies **Tekst naar spraak**.
+Kies **Tekst naar spraak**:
 
 ![De uitbreiding 'Tekst naar spraak' is gemarkeerd.](images/text-to-speech.png)
 
@@ -27,7 +27,7 @@ set language to (Dutch v) :: tts
 speak [hallo] :: tts
 ```
 
-Je kunt zelfs een katten-stem gebruiken!
+Je kunt zelfs een kattenstem gebruiken!
 
 ```blocks3
 set voice to (kitten v) :: tts
