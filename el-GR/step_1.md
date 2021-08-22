@@ -1,24 +1,24 @@
-**Pico and Giga talk with the speech extension**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+**Ο Pico και ο Giga μιλάνε με την επέκταση ομιλίας **: [Δες μέσα](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on **Add Extension**:
+Κάνε κλικ στην **Προσθήκη Επέκτασης**:
 
-![The 'Add Extension' icon.](images/add-extension.png)
+![Το εικονίδιο "Προσθήκη επέκτασης".](images/add-extension.png)
 
-Choose **Text to Speech**:
+Επίλεξε **Κείμενο σε ομιλία**:
 
-![The 'Text to Speech' extension highlighted.](images/text-to-speech.png)
+![Η επέκταση "Κείμενο σε ομιλία" επισημασμένη.](images/text-to-speech.png)
 
-You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
+Θα εμφανιστεί ένα μενού μπλοκ `Κείμενο σε Ομιλία`{:class="block3extensions"}:
 
-![The 'Text to Speech' blocks menu.](images/text-to-speech-blocks.png)
+![Το μενού μπλοκ "Κείμενο σε ομιλία".](images/text-to-speech-blocks.png)
 
-You can use the blocks in the `Text to Speech`{:class="block3extensions"} blocks menu to make your sprites talk out loud.
+Μπορείς να χρησιμοποιήσεις τα μπλοκ στο μενού μπλοκ `Κείμενο σε Ομιλία`{:class="block3extensions"} για να κάνεις τα αντικείμενά σου να μιλούν δυνατά.
 
-You can make a sprite talk out loud when clicked:
+Μπορείς να κάνεις ένα αντικείμενο να μιλήσει δυνατά όταν γίνει κλικ σε αυτό:
 
 ```blocks3
 when this sprite clicked
@@ -27,7 +27,7 @@ set language to (Spanish v) :: tts
 speak [Hola] :: tts
 ```
 
-You can even give your sprite a kitten voice!
+Μπορείς επίσης να δώσεις στο αντικείμενό σου μία φωνή μικρής γάτας!
 
 ```blocks3
 set voice to (kitten v) :: tts
