@@ -23,7 +23,7 @@ Você pode fazer um ator falar em voz alta quando clicado:
 ```blocks3
 when this sprite clicked
 set voice to (alto v) :: tts
-set language to (Portuguese (Brazilian) v) :: tts
+set language to (Portuguese Brazilian v) :: tts
 speak [Olá] :: tts
 ```
 
