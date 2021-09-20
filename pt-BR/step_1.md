@@ -1,24 +1,24 @@
-**Pico and Giga talk with the speech extension**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+**Pico e Giga falam com a extensão Fala**: [Ver interior](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on **Add Extension**:
+Clique em **Adicionar Extensão**:
 
-![The 'Add Extension' icon.](images/add-extension.png)
+![Ícone 'Adicionar Extensão'.](images/add-extension.png)
 
-Choose **Text to Speech**:
+Escolha **Texto para Fala**:
 
-![The 'Text to Speech' extension highlighted.](images/text-to-speech.png)
+![Extensão 'Texto para fala' em destaque.](images/text-to-speech.png)
 
-You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
+Você obterá um novo menu de blocos `Texto para Fala`{:class="block3extensions"}:
 
-![The 'Text to Speech' blocks menu.](images/text-to-speech-blocks.png)
+![Blocos de menu 'Texto para Fala'.](images/text-to-speech-blocks.png)
 
-You can use the blocks in the `Text to Speech`{:class="block3extensions"} blocks menu to make your sprites talk out loud.
+Você pode usar os blocos dentro do blocos de menu `Texto para Fala`{:class="block3extensions"} para fazer os seus atores falarem em voz alta.
 
-You can make a sprite talk out loud when clicked:
+Você pode fazer um ator falar em voz alta quando clicado:
 
 ```blocks3
 when this sprite clicked
@@ -27,7 +27,7 @@ set language to (Spanish v) :: tts
 speak [Hola] :: tts
 ```
 
-You can even give your sprite a kitten voice!
+Você pode até mesmo fazer o seu ator falar com uma voz de gatinho!
 
 ```blocks3
 set voice to (kitten v) :: tts
