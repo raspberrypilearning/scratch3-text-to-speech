@@ -30,6 +30,6 @@ speak [Hola] :: tts
 You can even give your sprite a kitten voice!
 
 ```blocks3
-set voice to (kitten v) :: tts
-speak [Cat gotta haz milk.] :: tts
+ustaw głos na (kitten v) :: tts
+mów [Kot chce mleko.] :: tts
 ```
