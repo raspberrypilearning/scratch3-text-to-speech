@@ -1,24 +1,24 @@
-**Pico and Giga talk with the speech extension**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+**Pico ಮತ್ತು Giga ಸ್ಪೀಚ್ ವಿಸ್ತರಣೆಯೊಂದಿಗೆ ಮಾತನಾಡುತ್ತಾರೆ**: [ಒಳಗೆ ನೋಡಿ](https://scratch.mit.edu/projects/499373708/editor){: target = "_ blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on **Add Extension**:
+**Add Extension** ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ:
 
 ![The 'Add Extension' icon.](images/add-extension.png)
 
-Choose **Text to Speech**:
+**Text to Speech** ಅನ್ನ ಆರಿಸಿ:
 
-![The 'Text to Speech' extension highlighted.](images/text-to-speech.png)
+!['Texy to Speech' ವಿಸ್ತರಣೆ ಹೈಲೈಟ್ ಆಗುತ್ತದೆ.](images/text-to-speech.png)
 
-You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
+ಹೊಸ `Text to Speech`{:class="block3extensions"} ಬ್ಲಾಕ್ಸ ಮೆನು ಬರುವುದು:
 
-![The 'Text to Speech' blocks menu.](images/text-to-speech-blocks.png)
+!['Text to Speech' ಬ್ಲಾಕ್ಸ ಮೆನು.](images/text-to-speech-blocks.png)
 
-You can use the blocks in the `Text to Speech`{:class="block3extensions"} blocks menu to make your sprites talk out loud.
+`Text to Speech`{:class="block3extensions"} ಬ್ಲಾಕ್ಸ ಮೆನುವಿನಲ್ಲಿರುವ ಬ್ಲಾಕ್ಸಗಳನ್ನು ಬಳಸಿ ಸ್ಪ್ರೈಟ್ ಅನ್ನು ಮಾತಾಡಿಸಬಹುದು.
 
-You can make a sprite talk out loud when clicked:
+ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ ಸ್ಪ್ರೈಟ್ ಜೋರಾಗಿ ಮಾತನಾಡುವಂತೆ ಮಾಡಬಹುದು:
 
 ```blocks3
 when this sprite clicked
@@ -27,7 +27,7 @@ set language to (Spanish v) :: tts
 speak [Hola] :: tts
 ```
 
-You can even give your sprite a kitten voice!
+ನಿಮ್ಮ ಸ್ಪ್ರೈಟ್‌ಗೆ ಬೆಕ್ಕಿನ ಧ್ವನಿಯನ್ನು ಸಹ ನೀಡಬಹುದು!
 
 ```blocks3
 set voice to (kitten v) :: tts
