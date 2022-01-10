@@ -1,24 +1,24 @@
-**Pico and Giga talk with the speech extension**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+**Pico i Giga rozmawiają z rozszerzeniem mowy**: [Zajrzyj do środka](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on **Add Extension**:
+Kliknij **Dodaj rozszerzenie**:
 
-![The 'Add Extension' icon.](images/add-extension.png)
+![Ikona „Dodaj rozszerzenie”.](images/add-extension.png)
 
-Choose **Text to Speech**:
+Wybierz **Tekst na Mowę**:
 
-![The 'Text to Speech' extension highlighted.](images/text-to-speech.png)
+![Podświetlone rozszerzenie „Tekst na Mowę”.](images/text-to-speech.png)
 
-You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
+Dostaniesz nowe menu bloków `Tekst na Mowę`{class="block3extensions"}:
 
-![The 'Text to Speech' blocks menu.](images/text-to-speech-blocks.png)
+![Menu blokowania „Tekst na Mowę”.](images/text-to-speech-blocks.png)
 
-You can use the blocks in the `Text to Speech`{:class="block3extensions"} blocks menu to make your sprites talk out loud.
+Możesz użyć bloków w menu bloków `Tekst na mowę`{:class="block3extensions"}, aby Twoje duszki mówiły na głos.
 
-You can make a sprite talk out loud when clicked:
+Możesz sprawić, by duszek zaczął mówić po kliknięciu:
 
 ```blocks3
 when this sprite clicked
@@ -27,7 +27,7 @@ set language to (Spanish v) :: tts
 speak [Hola] :: tts
 ```
 
-You can even give your sprite a kitten voice!
+Możesz nawet nadać swojemu duszkowi głos kotka!
 
 ```blocks3
 ustaw głos na (kitten v) :: tts
