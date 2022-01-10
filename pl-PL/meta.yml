@@ -1,11 +1,11 @@
 ---
-title: Make a sprite talk with the Text to Speech extension
+title: Nawiąż rozmowę z duszkiem z rozszerzeniem Tekst na Mowę
 hero_image: images/banner.png
-description: Using the Text to Speech extension to make sprites speak out loud
+description: Używanie rozszerzenia zamiany tekstu na mowę, aby duszki przemówiły
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-10"
 steps:
   - 
-    title: Make a sprite talk with the Text to Speech extension
+    title: Spraw żeby duszek mówił wykorzystując rozszerzenie Tekst na Mowę
