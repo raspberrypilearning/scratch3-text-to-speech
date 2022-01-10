@@ -1,24 +1,24 @@
-**Pico and Giga talk with the speech extension**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+**Pico a Giga yn siarad gyda'r estyniad lleferydd**: [Gweler y tu fewn i](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on **Add Extension**:
+Cliciwch ar **Ychwanegu Estyniad**:
 
-![The 'Add Extension' icon.](images/add-extension.png)
+![Yr eicon 'Ychwanegu Estyniad'.](images/add-extension.png)
 
-Choose **Text to Speech**:
+Dewiswch **Testun i Leferydd**:
 
-![The 'Text to Speech' extension highlighted.](images/text-to-speech.png)
+![Yr estyniad 'Testun i Leferydd' wedi'i amlygu.](images/text-to-speech.png)
 
-You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
+Byddwch yn cael dewislen blociau `Testun i Leferydd`{:class="block3extensions"} newydd:
 
-![The 'Text to Speech' blocks menu.](images/text-to-speech-blocks.png)
+![Y dewislen blociau 'Testun i Leferydd'.](images/text-to-speech-blocks.png)
 
-You can use the blocks in the `Text to Speech`{:class="block3extensions"} blocks menu to make your sprites talk out loud.
+Gallwch ddefnyddio'r blociau yn y dewislen blociau `Testun i Leferydd`{:class="block3extensions"} i wneud i'ch corluniau i siarad yn uchel.
 
-You can make a sprite talk out loud when clicked:
+Gallwch chi wneud i gorlun siarad yn uchel pan fyddwch chi'n ei glicio:
 
 ```blocks3
 when this sprite clicked
@@ -27,7 +27,7 @@ set language to (Spanish v) :: tts
 speak [Hola] :: tts
 ```
 
-You can even give your sprite a kitten voice!
+Gallwch chi hyd yn oed roi llais cath fach i'ch corlun!
 
 ```blocks3
 set voice to (kitten v) :: tts
