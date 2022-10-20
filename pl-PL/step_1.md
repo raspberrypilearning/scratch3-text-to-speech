@@ -21,10 +21,10 @@ Możesz użyć bloków w menu bloków `Tekst na mowę`{:class="block3extensions"
 Możesz sprawić, by duszek zaczął mówić po kliknięciu:
 
 ```blocks3
-when this sprite clicked
-set voice to (alto v) :: tts
-set language to (Spanish v) :: tts
-speak [Hola] :: tts
+kiedy ten duszek kliknięty
+ustaw głos na (alto v) :: tts
+ustaw język na (hiszpański v) :: tts
+mów [Hola] :: tts
 ```
 
 Możesz nawet nadać swojemu duszkowi głos kotka!
