@@ -22,14 +22,14 @@
 
 ```blocks3
 when this sprite clicked
-set voice to (alto v) :: Тум
-set language to (Ukrainian v) :: Тум
-speak [привіт] :: Тум
+set voice to (alto v) :: tts
+set language to (Spanish v) :: tts
+speak [Hola] :: tts
 ```
 
 Ти навіть можеш наділити свій спрайт голосом котика!
 
 ```blocks3
-set voice to (kitten v) :: Тум
-speak [Кіт повинен пити молоко.] :: Тум
+set voice to (kitten v) :: tts
+speak [Кіт повинен пити молоко.] :: tts
 ```
