@@ -1,24 +1,24 @@
-**Pico and Giga talk with the speech extension**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+**Pico och Giga pratar med taltilläget**: [Se inuti](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on **Add Extension**:
+Klicka på **Lägg till tillägg**:
 
-![The 'Add Extension' icon.](images/add-extension.png)
+!["Lägg till tillägg"-ikonen.](images/add-extension.png)
 
-Choose **Text to Speech**:
+Välj **text till tal**:
 
-![The 'Text to Speech' extension highlighted.](images/text-to-speech.png)
+!["Text till tal"-tilläget är markerat.](images/text-to-speech.png)
 
-You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
+Du kommer att få en ny `"Text till tal"`{:class="block3extensions"}-blockmeny:
 
-![The 'Text to Speech' blocks menu.](images/text-to-speech-blocks.png)
+![Blockmenyn 'Text till tal'.](images/text-to-speech-blocks.png)
 
-You can use the blocks in the `Text to Speech`{:class="block3extensions"} blocks menu to make your sprites talk out loud.
+Du kan använda blocken i `"Text till tal"`{:class="block3extensions"}-blockmenyn för att få dina sprajter att prata högt.
 
-You can make a sprite talk out loud when clicked:
+Du kan få en sprajt att prata när du klickar på den:
 
 ```blocks3
 when this sprite clicked
@@ -27,7 +27,7 @@ set language to (Spanish v) :: tts
 speak [Hola] :: tts
 ```
 
-You can even give your sprite a kitten voice!
+Du kan till och med ge din sprajt en kattunges röst!
 
 ```blocks3
 set voice to (kitten v) :: tts
