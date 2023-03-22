@@ -1,7 +1,7 @@
-**Pico och Giga pratar med taltilläget**: [Se inuti](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+**Pico och Giga pratar med taltilläget**: [Se inuti](https://scratch.mit.edu/projects/823693741/editor){:target="_blank"}
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/823693741/?autostart=false" frameborder="0"></iframe>
 </div>
 
 Klicka på **Lägg till tillägg**:
@@ -24,7 +24,7 @@ Du kan få en sprajt att prata när du klickar på den:
 when this sprite clicked
 set voice to (alto v) :: tts
 set language to (Spanish v) :: tts
-speak [hej] :: tts
+speak [Hej] :: tts
 ```
 
 Du kan till och med ge din sprajt en kattunges röst!
