@@ -4,7 +4,7 @@
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**एक्सटेंशन जोड़ें ** पर क्लिक करें:
+**एक्सटेंशन जोड़ें** पर क्लिक करें:
 
 !['एक्सटेंशन जोड़ें' आइकन।](images/add-extension.png)
 
