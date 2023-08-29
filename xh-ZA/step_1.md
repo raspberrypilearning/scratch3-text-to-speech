@@ -1,24 +1,24 @@
-**Pico and Giga talk with the speech extension**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+**Pico kunye ne-Giga bathetha kunye nolwandiso lwentetho**: [Bona ngaphakathi kwe](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on **Add Extension**:
+Cofa ku- **Yongeza Ulwandiso**:
 
-![The 'Add Extension' icon.](images/add-extension.png)
+![I icon 'Yongeza Ulwandiso'.](images/add-extension.png)
 
-Choose **Text to Speech**:
+Khetha isiqendu esingu **kwiNtetho yoku-**:
 
-![The 'Text to Speech' extension highlighted.](images/text-to-speech.png)
+![Ulwandiso 'lweSibhalo kwiNtetho' luphawuliwe.](images/text-to-speech.png)
 
-You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
+Uya kufumana umbhalo omtsha ongu `kwiNtetho`{:class="block3extensions"} iibhloko zemenyu:
 
-![The 'Text to Speech' blocks menu.](images/text-to-speech-blocks.png)
+!['Isicatshulwa kwiNtetho' sivala imenyu.](images/text-to-speech-blocks.png)
 
-You can use the blocks in the `Text to Speech`{:class="block3extensions"} blocks menu to make your sprites talk out loud.
+Ungasebenzisa iibhloko kwi `Okubhaliweyo kwiNtetho`{:class="block3extensions"} iibhloko zemenyu ukwenza i-sprites yakho ithethe ngokuvakalayo.
 
-You can make a sprite talk out loud when clicked:
+Unokwenza isprite sithethe ngokuvakalayo xa ucofa:
 
 ```blocks3
 when this sprite clicked
@@ -27,7 +27,7 @@ set language to (Spanish v) :: tts
 speak [Hola] :: tts
 ```
 
-You can even give your sprite a kitten voice!
+Unganika i-sprite yakho ilizwi lekati!
 
 ```blocks3
 set voice to (kitten v) :: tts
