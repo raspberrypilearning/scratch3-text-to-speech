@@ -33,4 +33,3 @@ Unganika i-sprite yakho ilizwi lekati!
 lungiselela ilizwi libe (intshontsho lekati v) :: tts
 thetha [Ikati funa ubisi.] :: tts
 ```
-
