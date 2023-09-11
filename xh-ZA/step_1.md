@@ -21,16 +21,16 @@ Ungasebenzisa iibhloko kwi `Okubhaliweyo kwiNtetho`{:class="block3extensions"} i
 Unokwenza isprite sithethe ngokuvakalayo xa ucofa:
 
 ```blocks3
-when this sprite clicked
-set voice to (alto v) :: tts
-set language to (Spanish v) :: tts
-speak [Hola] :: tts
+ukuba ucofe i-sprite
+lungiselela ilizwi libe (i-alto v) :: tts
+lungisa ulwimi lube (Spanish v) :: tts
+thetha [Hola] :: tts
 ```
 
 Unganika i-sprite yakho ilizwi lekati!
 
 ```blocks3
-set voice to (kitten v) :: tts
-speak [Ikati funa ubisi.] :: tts
+lungiselela ilizwi libe (intshontsho lekati v) :: tts
+thetha [Ikati funa ubisi.] :: tts
 ```
 
