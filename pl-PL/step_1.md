@@ -12,7 +12,7 @@ Wybierz **Tekst na Mowę**:
 
 ![Podświetlone rozszerzenie „Tekst na Mowę”.](images/text-to-speech.png)
 
-Dostaniesz nowe menu bloków `Tekst na Mowę`{class="block3extensions"}:
+Dostaniesz nowe menu bloków `Tekst na Mowę`{:class="block3extensions"}:
 
 ![Menu blokowania „Tekst na Mowę”.](images/text-to-speech-blocks.png)
 
