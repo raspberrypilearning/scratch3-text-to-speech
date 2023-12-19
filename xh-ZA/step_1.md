@@ -1,4 +1,4 @@
-**Pico kunye ne-Giga bathetha kunye nolwandiso lwentetho**: [Bona ngaphakathi kwe](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+**Pico kunye ne-Giga bathetha kunye nolwandiso lwentetho**: [Bona ngaphakathi kwe](https://scratch.mit.edu/projects/887060718/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
