@@ -1,24 +1,24 @@
-**Pico and Giga talk with the speech extension**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+**Pico a Giga mluví s rozšířením řeči**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on **Add Extension**:
+Klikni na **Přidej rošíření**:
 
-![The 'Add Extension' icon.](images/add-extension.png)
+![Ikona 'Přidat rozšíření'.](images/add-extension.png)
 
-Choose **Text to Speech**:
+Vyberte **Text na hlas**:
 
-![The 'Text to Speech' extension highlighted.](images/text-to-speech.png)
+![Rozšíření 'Text na hlas' je zvýrazněno.](images/text-to-speech.png)
 
-You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
+Získáte nový`Hlas na text`{:class="block3extensions"} nabídku bloků:
 
-![The 'Text to Speech' blocks menu.](images/text-to-speech-blocks.png)
+![Nabídka bloků 'Text na hlas'.](images/text-to-speech-blocks.png)
 
-You can use the blocks in the `Text to Speech`{:class="block3extensions"} blocks menu to make your sprites talk out loud.
+Můžete použít bloky v `Text na hlas`{:class="block3extensions"} nabídce bloků, aby vaše postavy mluvila nahlas.
 
-You can make a sprite talk out loud when clicked:
+Postava může mluvt na hlas, když kliknete:
 
 ```blocks3
 when this sprite clicked
@@ -27,7 +27,7 @@ set language to (Spanish v) :: tts
 speak [Hola] :: tts
 ```
 
-You can even give your sprite a kitten voice!
+Můžete postavě dát i hlas koťátka!
 
 ```blocks3
 set voice to (kitten v) :: tts
