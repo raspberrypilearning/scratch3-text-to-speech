@@ -31,5 +31,5 @@ Você pode até mesmo fazer o seu ator falar com uma voz de gatinho!
 
 ```blocks3
 set voice to (kitten v) :: tts
-speak [O gato tem leite haz.] :: tts
+speak [O gato precisa de leite.] :: tts
 ```
