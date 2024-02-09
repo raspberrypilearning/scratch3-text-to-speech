@@ -1,4 +1,4 @@
-**Pico e Giga parlano con l'estensione vocale**: [Leggi all'interno](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+**Pico e Giga parlano con l'estensione vocale**: [Guarda dentro](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
