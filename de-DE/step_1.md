@@ -6,7 +6,7 @@
 
 Klicke auf **Erweiterung hinzufügen**:
 
-![Das Piktogramm "Erweiterung hinzufügen".](images/add-extension.png)
+![Das Symbol "Erweiterung hinzufügen".](images/add-extension.png)
 
 Wähle **Text zu Sprache**:
 
