@@ -12,7 +12,7 @@ Vyberte **Text na hlas**:
 
 ![Rozšíření 'Text na hlas' je zvýrazněno.](images/text-to-speech.png)
 
-Získáte nový `Hlas na text`{:class="block3extensions"} nabídku bloků:
+Získáte nový `Text na hlas`{:class="block3extensions"} nabídku bloků:
 
 ![Nabídka bloků 'Text na hlas'.](images/text-to-speech-blocks.png)
 
