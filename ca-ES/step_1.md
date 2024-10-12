@@ -1,24 +1,24 @@
-**Pico and Giga talk with the speech extension**: [See inside](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
+En **Pico i Giga parlen amb l'extensió de veu**: [Veure dins](https://scratch.mit.edu/projects/499373708/editor){:target="_blank"}
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Click on **Add Extension**:
+Feu clic a **Afegeix una extensió**:
 
-![The 'Add Extension' icon.](images/add-extension.png)
+![La icona "Afegeix una extensió".](images/add-extension.png)
 
-Choose **Text to Speech**:
+Trieu **Text a parla**:
 
-![The 'Text to Speech' extension highlighted.](images/text-to-speech.png)
+![L'extensió "Text a parla" destacada.](images/text-to-speech.png)
 
-You will get a new `Text to Speech`{:class="block3extensions"} blocks menu:
+Obtindreu un nou menú de blocs `Text a parla`{:class="block3extensions"}:
 
-![The 'Text to Speech' blocks menu.](images/text-to-speech-blocks.png)
+![El menú de blocs "Text a parla".](images/text-to-speech-blocks.png)
 
-You can use the blocks in the `Text to Speech`{:class="block3extensions"} blocks menu to make your sprites talk out loud.
+Podeu utilitzar els blocs del menú de blocs `Text a parla`{:class="block3extensions"} per fer que els vostres personatges parlin en veu alta.
 
-You can make a sprite talk out loud when clicked:
+Podeu fer que un personatge parli en veu alta quan feu clic:
 
 ```blocks3
 when this sprite clicked
@@ -27,7 +27,7 @@ set language to (Spanish v) :: tts
 speak [Hola] :: tts
 ```
 
-You can even give your sprite a kitten voice!
+Fins i tot pots donar una veu de gatet al teu personatge!
 
 ```blocks3
 set voice to (kitten v) :: tts
