@@ -4,11 +4,11 @@
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499373708/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**एक्सटेंशन जोड़ें** पर क्लिक करें:
+**एक्सटेंशन जोड़ें ** पर क्लिक करें:
 
 !['एक्सटेंशन जोड़ें' आइकन।](images/add-extension.png)
 
-**टेक्स्ट टू स्पीच चुनें**:
+चुनें **टेक्स्ट टू स्पीच **:
 
 !['टेक्स्ट टू स्पीच' एक्सटेंशन को चिन्हांकित किया गया](images/text-to-speech.png)
 
