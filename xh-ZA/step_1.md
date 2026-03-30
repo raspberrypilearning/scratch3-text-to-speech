@@ -21,7 +21,7 @@ Ungasebenzisa iibhloko kwi `Okubhaliweyo kwiNtetho`{:class="block3extensions"} i
 Unokwenza isprite sithethe ngokuvakalayo xa ucofa:
 
 ```blocks3
-ukuba ucofe i-sprite
+when this sprite clicked
 lungiselela ilizwi libe (i-alto v) :: tts
 lungisa ulwimi lube (Spanish v) :: tts
 thetha [Hola] :: tts
